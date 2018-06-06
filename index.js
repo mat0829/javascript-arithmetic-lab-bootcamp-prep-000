@@ -1,3 +1,3 @@
 function add(a, b) {
-  add(a, b) === (a = b)
+ return(a, b) === (a + b)
 }
