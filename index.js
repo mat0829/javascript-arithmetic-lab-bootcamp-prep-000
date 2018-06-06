@@ -1,1 +1,0 @@
-parseInt('nonsense!', 10)
